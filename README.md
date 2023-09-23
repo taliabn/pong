@@ -12,7 +12,7 @@ When the ball hits a surface, it changes to a (pseudo) random color
 ### Gameplay
 When a player loses a round, their opponent's paddle grows in height
 		
-# Instructions
+## Instructions
 1. Go to https://cpulator.01xz.net/?sys=arm-de1soc in any browser.
 2. Copy and paste the code from pong.s into the code editor pane in the center.
 3. Click the Compile and Load button, at the top left of the Editor pane.
