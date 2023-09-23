@@ -16,11 +16,11 @@ When a player loses a round, their opponent's paddle grows in height
 1. Go to https://cpulator.01xz.net/?sys=arm-de1soc in any browser.
 2. Copy and paste the code from pong.s into the code editor pane in the center.
 3. Click the Compile and Load button, at the top left of the Editor pane.
-![Compile button in simulator](compile.png)
+![Compile button in simulator](/images/compile.png)
 4. In the Devices pane on the left, scroll down to 'VGA pixel buffer'. Click the dropdown, select "Show in a Seperate Box", and adjust the zoom to your preference.
-![Moving pixel buffer window in simulator](popout.png)
+![Moving pixel buffer window in simulator](/images/popout.png)
 5. In the Devices pane on the left, scroll down to the first box that says "PS/2 keyboard or mouse". The "Type here" box is what players will use to control their paddles.
-![Where to type in simulator during gamepay](type-here.png)
+![Where to type in simulator during gamepay](/images/type-here.png)
 6. At the top of the screen, press the "Continue" button to start the game. 
 7. Click the keyboard input box described in step 5. Player 1 uses the 'w' and 's' keys to control the left paddle, and player 2 uses the up and down arrow keys to control the right paddle
 8. The game is infinite, but players' scores are displayed as the game progresses. When you are done playing, at the top of the screen press the "Stop" button to end the game. 
